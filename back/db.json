@@ -1,0 +1,53 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "ashwak",
+      "phone": "6302212170",
+      "gender": "male",
+      "age": 22
+    },
+    {
+      "id": "2",
+      "name": "Raja sir",
+      "phone": "9902212170",
+      "gender": "male",
+      "age": 40
+    },
+    {
+      "id": 1750673858528,
+      "name": "lady",
+      "phone": "100",
+      "gender": "female",
+      "age": "100"
+    },
+    {
+      "id": 1750674648571,
+      "name": "human 1",
+      "phone": "06302212170",
+      "gender": "male",
+      "age": "11"
+    },
+    {
+      "id": 1750674658370,
+      "name": "human 2 ",
+      "phone": "+916302212170",
+      "gender": "female",
+      "age": "112"
+    },
+    {
+      "id": 1750674681956,
+      "name": "Vikram",
+      "phone": "9224106960",
+      "gender": "female",
+      "age": 33
+    },
+    {
+      "id": 1750674691966,
+      "name": "Anjali",
+      "phone": "9240711845",
+      "gender": "male",
+      "age": 18
+    }
+  ]
+}
